@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>fruitmememem&#39;s Blog</title>
+  <title>ZORRO</title>
   
-  <subtitle>临渊羡鱼,不如退而结网,水至清则无鱼,人至察则无徒。</subtitle>
+  <subtitle>没有绝对的安全</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>fruitmememem</name>
+    <name>ZORRO</name>
     
   </author>
   
