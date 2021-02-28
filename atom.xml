@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-28T13:23:45.159Z</updated>
+  <updated>2021-02-28T13:36:20.644Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -20,11 +20,13 @@
     <title>博客搭建</title>
     <link href="http://example.com/2021/02/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <id>http://example.com/2021/02/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
-    <published>2021-02-24T10:08:36.000Z</published>
-    <updated>2021-02-28T13:23:45.159Z</updated>
+    <published>2021-02-24T10:08:36.217Z</published>
+    <updated>2021-02-28T13:36:20.644Z</updated>
     
     
     
+    
+    <category term="基础" scheme="http://example.com/categories/%E5%9F%BA%E7%A1%80/"/>
     
     
     <category term="基础" scheme="http://example.com/tags/%E5%9F%BA%E7%A1%80/"/>
@@ -36,10 +38,12 @@
     <link href="http://example.com/2021/02/24/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2021/02/24/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2021-02-24T10:08:36.000Z</published>
-    <updated>2021-02-28T13:33:08.814Z</updated>
+    <updated>2021-02-28T13:36:12.004Z</updated>
     
     
     
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
     <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
